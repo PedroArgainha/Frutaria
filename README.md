@@ -1,2 +1,0 @@
-# Frutaria
-Experimento 1
